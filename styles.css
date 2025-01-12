@@ -1,0 +1,16 @@
+body{
+    background-color: #510c92;
+}
+img {
+    border-radius: 20px;
+    margin-right: 20px;
+    width: 500px;
+    float: left;
+}
+h1.top {
+    color: white;
+    font-weight: bold;
+}
+a {
+    color: white;
+}
