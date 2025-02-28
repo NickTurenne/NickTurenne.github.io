@@ -1,16 +1,27 @@
 body{
     background-color: #510c92;
 }
-img {
-    border-radius: 20px;
-    margin-right: 20px;
-    width: 500px;
-    float: left;
+img { /* this is for the profile image */
+    border-radius: 1000px;
+    margin-right: 1000px;
+    border: 5px solid;
+    border-color: black;
+    width: 20%;
 }
 h1.top {
     color: white;
     font-weight: bold;
+    text-align: center;
 }
 a {
+    color: white;
+}
+.center{ /* This centers the image, but needs to have with <= 50% */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{
+    text-align: center;
     color: white;
 }
