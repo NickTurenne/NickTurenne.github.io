@@ -65,7 +65,17 @@
         <li><a href="https://github.com/NickTurenne" target="_blank" title="GitHub">GitHub</a></li>
         <li><a href="https://www.linkedin.com/in/nick-turenne-356472347/" target="_blank" title="LinkedIn">LinkedIn</a></li>
       </ul>
+      <hr>
     </div>
-  
+
+    <div class="header">
+      <p id="date"></p>
+    </div>
+    
+    <script>
+      const d = new Date();
+      let year = d.getFullYear();
+      document.getElementById("date").innerHTML = "©" + year + " All rights reserved.";
+    </script>
   </body>
 </html>
