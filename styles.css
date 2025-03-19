@@ -26,6 +26,10 @@ b {
     color: white;
     font-weight: normal;
 }
+p {
+    color: white;
+    font-weight: normal;
+}
 .description{
     margin: auto;
     text-align: center;
