@@ -1,2 +1,3 @@
 # NickTurenne.github.io
-Portfolio website in progress
+Portfolio website for Nicholas Turenne
+
